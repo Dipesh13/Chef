@@ -1,2 +1,0 @@
-# Chef
-Daily Practice challenge

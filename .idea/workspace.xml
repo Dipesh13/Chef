@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a95129f-64a2-48bc-a15e-cb90f12b213c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/LOSTMAX.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/LTM40AB.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/MATPAN.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/MOVIEWKN.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PERFCOUNT.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/STRLBP.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TTENIS.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/TWOVSTEN.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/VILTRIBE.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/atm.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/c12.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/c13.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/chef(1).py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/chef(2).py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/chef(3).py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/chef(4).py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/file_path.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/first_and_last digit.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flask_server.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/id_and_ship.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/io.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/servent.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/total_expenses.py" afterPath="" />
-    </list>
+    <list default="true" id="0a95129f-64a2-48bc-a15e-cb90f12b213c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="65" />
     <option name="y" value="24" />
     <option name="width" value="1301" />
@@ -132,7 +106,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="7" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23395932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
